@@ -3,5 +3,6 @@ public class HelloWorld {
         System.out.println("Hello, World!");
         System.out.println("Hello Nepal");
         System.out.println("Hello Nepal, I am from nowhere");
+        System.out.println("Hello Nepal, I am from everywhere");
     }
 }
